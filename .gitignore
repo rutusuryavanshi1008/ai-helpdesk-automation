@@ -1,0 +1,15 @@
+# Secret credentials - NEVER upload this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output files
+helpdesk_report.xlsx
+charts/
+
+# System files
+.DS_Store
+Thumbs.db
