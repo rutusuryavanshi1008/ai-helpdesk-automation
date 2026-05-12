@@ -17,16 +17,7 @@ An AI-powered helpdesk analytics pipeline that automatically classifies tickets,
 - python-dotenv, smtplib
 
 ## ⚙️ Setup
-
 1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/helpdesk-ticket-analyzer.git
-
-2. Install dependencies
-   pip install -r requirements.txt
-
-3. Create your .env file
-   cp .env.example .env
-   Then fill in your real API keys
-
-4. Run
-   python main.py
+2. Run: pip install -r requirements.txt
+3. Copy .env.example to .env and fill in your keys
+4. Run: python analysis.py
